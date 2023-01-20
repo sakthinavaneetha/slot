@@ -121,9 +121,9 @@ Execute the program
 </html>
 ```
 
-# OUTPUT
+# OUTPUT:
 ![OUTPUT](./images/ttoutput.png)
 ![OUTPUT](./images/validation.png)
 
-# RESULT
+# RESULT:
 The program for creating a slot time table is completed successfully .
