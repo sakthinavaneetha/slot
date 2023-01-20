@@ -123,9 +123,7 @@ Execute the program
 
 # OUTPUT
 ![OUTPUT](./images/ttoutput.png)
-
-# HTML VALIDATOR 
-![HTML VALIDATOR](./images/validation.png)
+![OUTPUT](./images/validation.png)
 
 # RESULT
 The program for creating a slot time table is completed successfully .
