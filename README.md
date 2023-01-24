@@ -122,11 +122,11 @@ Execute the program
 ```
 
 # OUTPUT:
-![OUTPUT](.static/images/ttoutput.png)
+
 ![ttoutput](https://user-images.githubusercontent.com/118671664/214377672-1c5ba9cd-86ec-4a6e-9d8b-b77640f3015e.png)
 
 # HTML VALIDATION:
-![HTML VALIDATION](.static/images/validation.png)
+
 ![validation](https://user-images.githubusercontent.com/118671664/214377839-6c889731-d78e-4cb3-af44-dc9aa8c738ba.png)
 
 # RESULT:
